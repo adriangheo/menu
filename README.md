@@ -1,3 +1,6 @@
+# Restaurant Menu Project
+![visual representation](visual-representation.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
